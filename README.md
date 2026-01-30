@@ -49,5 +49,5 @@ Doing so allows us to remove the monadic-style code and replace it with direct-s
 Material:
 
 * [Lecture 4 slides](slides/PL-for-PA-lecture-4-handout.pdf)
-* [Lecutre 4 video](https://youtu.be/hS8_RwDvilo?si=ZZIwGTdEgMcc5d94)
+* [Lecutre 4 video](https://youtu.be/KQYlw1G0bzA?si=unuRa0suR8gmvx9n)
 * Lecture 4 Implementation: [`algebraic-fauxtt`](./algebraic-fauxtt)
