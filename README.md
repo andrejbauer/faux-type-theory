@@ -14,7 +14,8 @@ presentation suitable for implementation.
 
 Material:
 
-* **[Lecture 1 slides](./slides/PL-for-PA-lecture-1-handout.pdf)**
+* [Lecture 1 slides](./slides/PL-for-PA-lecture-1-handout.pdf)
+* [Lecture 1 video](https://youtu.be/jt-LZ7Nycfk?si=x-mAiwiYd_Wrkzjo)
 
 ## Lecture 2: A monadic type checker
 
@@ -23,8 +24,10 @@ The core type checker uses *monadic-style* implementaion that encapsulates the c
 
 Material:
 
-* **[Lecture 2 slides](./slides/PL-for-PA-lecture-2-handout.pdf)**
-* **Implementation:** [`monadic-fauxtt`](./monadic-fauxtt)
+* [Lecture 2 slides](./slides/PL-for-PA-lecture-2-handout.pdf)
+* [Lecture 2 video](https://youtu.be/34W7KZ6zk4I?si=Pz3QKzz3NXqjklZK)
+* Lecture 2 Implementation: [`monadic-fauxtt`](./monadic-fauxtt)
+
 
 ## Lecture 3: Holes and unification
 
@@ -34,8 +37,9 @@ We will look at a rudimentary implementation with holes that fills them in using
 
 Material:
 
-* **[Lecture 3 slides](slides/PL-for-PA-lecture-3-handout.pdf)**
-* **Implementation:** [`holey-fauxtt`](./holey-fauxtt)
+* [Lecture 3 slides](slides/PL-for-PA-lecture-3-handout.pdf)
+* [Lecture 3 video](https://youtu.be/hS8_RwDvilo?si=ZZIwGTdEgMcc5d94)
+* Lecture 3 implementation:** [`holey-fauxtt`](./holey-fauxtt)
 
 ## Lecture 4: Variables as computational effects
 
@@ -44,5 +48,6 @@ Doing so allows us to remove the monadic-style code and replace it with direct-s
 
 Material:
 
-* **[Lecture 4 slides](slides/PL-for-PA-lecture-4-handout.pdf)**
-* **Implementation:** [`algebraic-fauxtt`](./algebraic-fauxtt)
+* [Lecture 4 slides](slides/PL-for-PA-lecture-4-handout.pdf)
+* [Lecutre 4 video](https://youtu.be/hS8_RwDvilo?si=ZZIwGTdEgMcc5d94)
+* Lecture 4 Implementation: [`algebraic-fauxtt`](./algebraic-fauxtt)
